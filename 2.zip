@@ -1,0 +1,4 @@
+import requests  
+  
+url = 'http://192.168.171.46:8881'  
+response = requests.get(url)  
